@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fresh Movies</string>
+    <string name="movie_id">%1$d</string>
+</resources>
